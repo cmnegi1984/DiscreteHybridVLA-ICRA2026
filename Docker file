@@ -12,8 +12,6 @@ CMD ["bash"]
 
 ## Step 6 — Check your repo looks right
 
-Your repo should now have:
-```
 DiscreteHybridVLA-ICRA2026/
 ├── README.md       ← model summary + reproduction steps
 ├── REPRODUCE.md    ← exact run commands
